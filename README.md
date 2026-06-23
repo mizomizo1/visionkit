@@ -1,5 +1,9 @@
 # visionkit
 
+<p align="center">
+  <img src="doc/image/image.png" width="900">
+</p>
+
 `visionkit` is a small PyTorch package for image-classification projects where
 metadata lives in a CSV and images live in a directory. It supports:
 
